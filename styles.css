@@ -1,0 +1,19 @@
+body {
+  background-color: Pink;
+  font-family: "Helvetica", sans-serif;
+  color: blue;
+}
+
+h1 {
+   color: purple;
+   /* font-family: "Times New Roman", serif; */
+  font-family: "Helvetica", sans-serif;
+
+}
+
+h2 {
+   color: red;
+   /* font-family: "Times New Roman", serif; */
+  font-family: "Helvetica", sans-serif;
+
+}
