@@ -17,3 +17,11 @@ h2 {
   font-family: "Helvetica", sans-serif;
 
 }
+
+name {
+   color: red;
+   font-size: 125%;
+   font-weight: bold;
+   font-family: "Helvetica", sans-serif;
+
+}
