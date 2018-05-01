@@ -1,27 +1,22 @@
 body {
-  background-color: Pink;
-  font-family: "Helvetica", sans-serif;
-  color: blue;
+    background-color: Pink;
+    font-family: "Helvetica", sans-serif;
+    color: blue;
 }
 
 h1 {
-   color: purple;
-   /* font-family: "Times New Roman", serif; */
-  font-family: "Helvetica", sans-serif;
-
+    color: purple;
+    font-family: "Helvetica", sans-serif;
 }
 
 h2 {
-   color: red;
-   /* font-family: "Times New Roman", serif; */
-  font-family: "Helvetica", sans-serif;
-
+    color: red;
+    font-family: "Helvetica", sans-serif;
 }
 
 name {
-   color: red;
-   font-size: 125%;
-   font-weight: bold;
-   font-family: "Helvetica", sans-serif;
-
+    color: red;
+    font-size: 125%;
+    font-weight: bold;
+    font-family: "Helvetica", sans-serif;
 }
