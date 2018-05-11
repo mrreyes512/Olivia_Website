@@ -25,12 +25,8 @@ If anyone is interested in getting their kiddos started with coding, I'd suggest
 
 These are some of the books that Olivia really liked reading. They really help with core concepts.
 
-![Hello Ruby](images/hello_ruby.png)
+* [Coder Dojo](https://coderdojo.com/)
 
-* [Hello Ruby: Adventures in Coding](http://a.co/hKquy4Q)
-
-![Web Design for Kids](images/webdesign_kids.png)
-
-* [Web Design for Kids](http://a.co/fkwDu2n)
-
-* [CoderDojo Nano: Building a Website](http://a.co/7A0jw80)
+[![Hello Ruby](images/hello_ruby.png)](http://a.co/hKquy4Q)
+[![Web Design for Kids](images/webdesign_kids.png)](http://a.co/fkwDu2n)
+[![CoderDojo Nano: Building a Website](images/coder_dojo.png)](http://a.co/7A0jw80)
